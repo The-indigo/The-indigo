@@ -5,6 +5,10 @@
 . ⚡ React.Js Frontend Developer 
 
 . 🌱 I also create awesome work with React Native for mobile app development and Springboot for Backend development
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-indigo&langs_count=5&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
