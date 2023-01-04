@@ -1,7 +1,9 @@
 ### Hi there i'm Adeyemi 👋
 
-. 😄 He/Him ...
-. ⚡ React.Js Frontend Developer ...
+. 😄 He/Him 
+
+. ⚡ React.Js Frontend Developer 
+
 . 🌱 I also create awesome work with React Native for mobile app development and Springboot for Backend development
 
 
