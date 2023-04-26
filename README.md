@@ -2,9 +2,9 @@
 
 . 😄 He/Him 
 
-. ⚡ React.Js Frontend Developer 
+. ⚡ React/React Native 
 
-. 🌱 I also create awesome work with React Native for mobile app development and Springboot for Backend development
+. 🌱 I also create awesome work with Express.js and Springboot
 <br/>
 <br/>
 
