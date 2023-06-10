@@ -2,9 +2,11 @@
 
 . 😄 He/Him 
 
-. ⚡ React/React Native 
+. 🔭 Aws Cloud certified 
 
-. 🌱 I also create awesome work with Express.js and Springboot
+. 🌱 Implementing Ci/Cd pipeleines with Azure devops and Jenkins 
+
+. 🌱 I create awesome work with Express.js and Springboot
 <br/>
 <br/>
 
