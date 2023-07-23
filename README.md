@@ -2,11 +2,12 @@
 
 . 😄 He/Him 
 
-. 🔭 Aws Cloud certified 
+. 🌱 Aws Cloud certified 
+ 
+. 🔭 I create awesome work with Express.js and Springboot
 
-. 🌱 Implementing Ci/Cd pipeleines with Azure devops and Jenkins 
+. 🌱 Implementing Ci/Cd with Azure devops and Jenkins
 
-. 🌱 I create awesome work with Express.js and Springboot
 <br/>
 <br/>
 
