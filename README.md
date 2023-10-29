@@ -4,7 +4,7 @@
 
 . 🌱 Aws Cloud certified 
  
-. 🔭 I create awesome work with Express.js and Springboot
+. 🔭 I create awesome work with Java and Javascript
 
 
 <br/>
