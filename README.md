@@ -6,7 +6,6 @@
  
 . 🔭 I create awesome work with Express.js and Springboot
 
-. 🌱 Implementing Ci/Cd with Azure devops and Jenkins
 
 <br/>
 <br/>
