@@ -1,16 +1,4 @@
-### Hi there i'm Adeyemi 👋
 
-. 😄 He/Him 
-
-. 🌱 Aws Cloud certified 
- 
-. 🔭 I create awesome work with Java and Javascript
-
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-indigo&langs_count=5&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
